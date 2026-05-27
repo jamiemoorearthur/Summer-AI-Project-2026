@@ -16,6 +16,7 @@ Semantic matching against job descriptions
 Real-time scraping of tech industry hiring trends
 Backend API architecture with FastAPI
 Cloud-native deployment using Docker & Kubernetes
+
 Tech Stack
 Frontend
 JavaScript
@@ -23,11 +24,13 @@ HTML5
 CSS3
 Responsive UI components
 Interactive resume upload dashboard
+
 Backend
 Python
 FastAPI
 Requests
 BeautifulSoup4
+
 AI & NLP
 OpenAI API / LLM Models
 Pinecone Vector Database
@@ -37,29 +40,6 @@ Docker
 Kubernetes
 Containerized microservice deployment
 Project Objective
-
-The objective of this project was to design a scalable AI recruitment assistant capable of:
-
-Reviewing resumes for technology industry roles
-Generating intelligent CV improvement suggestions
-Identifying missing technical keywords
-Improving ATS performance
-Simulating enterprise-level AI hiring workflows
-Integrating NLP and semantic search systems into production APIs
-Core AI Functionality
-
-The AI model acts as an intelligent career assistant that analyzes resumes and provides recommendations such as:
-
-Improving technical wording
-Adding missing software engineering keywords
-Enhancing project descriptions
-Optimizing ATS readability
-Suggesting stronger action verbs
-Recommending industry-relevant technical skills
-Tailoring resumes toward:
-Software Engineering
-Data Science
-AI/ML
 Cloud Engineering
 DevOps
 Cybersecurity
